@@ -1,1 +1,1 @@
-# Typescript-Animal
+# Typescript-Animals
